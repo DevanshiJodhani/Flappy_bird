@@ -9,9 +9,9 @@ I have created this game in Python language using pygame library. Flappy Bird is
 - Play music
 
 ## Installation steps
-- git Clone
-- cd Flappy_bird
+- $ git clone git@github.com:DevanshiJodhani/Flappy_bird.git
+- $ cd Flappy_bird
 - open Terminal
-- sudo apt install pygame (if you don't have in your local machine)
+- pip install pygame (if you don't have in your local machine)
 - open game.py
 - run game.py
