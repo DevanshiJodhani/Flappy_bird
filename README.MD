@@ -8,4 +8,10 @@ I have created this game in Python language using pygame library. Flappy Bird is
 - Interect with keyboard
 - Play music
 
-
+## Installation steps
+- git Clone
+- cd Flappy_bird
+- open Terminal
+- sudo apt install pygame (if you don't have in your local machine)
+- open game.py
+- run game.py
